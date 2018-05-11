@@ -1,4 +1,6 @@
-.center[![Logo](https://i.imgur.com/LmLJlkU.png)]
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 
 # Informacje
 [V Role Play](https://v-rp.pl) jest serwerem RP na platformie rage.mp W celu szybszego oddania serwera do użytku społeczności postanawiamy poprosić Was o pomoc w tworzeniu szablonów przeglądarek, które pełnią rolę okienek na serwerze. Każda pomoc się liczy!
