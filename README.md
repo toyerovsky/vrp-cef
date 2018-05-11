@@ -3,10 +3,10 @@
 
 # TODO
 1. Okno logowania
-  [X] Pole email
-  [X] Pole hasło
+- [X] Pole email
+- [X] Pole hasło
 1. Wybór postaci
-  [x] Wyświetlanie postaci
+- [x] Wyświetlanie postaci
   * Przyciski do przewijania postaci (te które są obecnie są tymczasowe na potrzeby testowania serwera przez programistów)
 1. Kreator postaci
 1. Menu grupy
