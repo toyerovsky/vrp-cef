@@ -1,5 +1,5 @@
 <p align="center">
-![alt](https://i.imgur.com/LmLJlkU.png)
+![Logo](https://i.imgur.com/LmLJlkU.png "Logo")
 </p>
 
 # Informacje
