@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="450" height="300" src="https://i.imgur.com/LmLJlkU.png>https://v-rp.pl</img>
 </p>
 
 # Informacje
