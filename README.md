@@ -2,7 +2,10 @@
   <a href="https://v-rp.pl"><img width="400" height="275" src="https://i.imgur.com/LmLJlkU.png"></a>
 </p>
 
-# Informacje
+# Info
+:us: 
+[V Role Play](https://v-rp.pl) is Role Play server based on rage.mp platform. This repository contains chromium embedded framework browsers which are implemented on the server. If you're interested to contribute "Mi Casa Es Su Casa".
+
 [V Role Play](https://v-rp.pl) jest serwerem RP na platformie rage.mp W celu szybszego oddania serwera do użytku społeczności postanawiamy poprosić Was o pomoc w tworzeniu szablonów przeglądarek, które pełnią rolę okienek na serwerze. Każda pomoc się liczy!
 
 # Kontakt
