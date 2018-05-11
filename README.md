@@ -2,17 +2,17 @@
 [V Role Play](https://v-rp.pl) jest serwerem RP na platformie rage.mp
 
 # TODO
-1. Okno logowania
+**1. Okno logowania**
 - [X] Pole email
 - [X] Pole hasło
-1. Wybór postaci
+**2. Wybór postaci**
 - [x] Wyświetlanie postaci
-  * Przyciski do przewijania postaci (te które są obecnie są tymczasowe na potrzeby testowania serwera przez programistów)
-1. Kreator postaci
-1. Menu grupy
-1. Menu pracodawcy
-1. Menu grupy
-1. Menu przystanku autobusowego
-1. Menu drive-thru
-1. Menu budynku
-1. Menu salonu pojazdów
+- [ ] Przyciski do przewijania postaci (te które są obecnie są tymczasowe na potrzeby testowania serwera przez programistów)
+**3. Kreator postaci**
+**4. Menu grupy**
+**5. Menu pracodawcy**
+**6. Menu grupy**
+**7. Menu przystanku autobusowego**
+**8. Menu drive-thru**
+**9. Menu budynku**
+**10. Menu salonu pojazdów**
