@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="450" height="300" src="https://i.imgur.com/LmLJlkU.png>https://v-rp.pl</img>
+  <a href="https://v-rp.pl"><img width="450" height="300" src="https://i.imgur.com/LmLJlkU.png></a>
 </p>
 
 # Informacje
