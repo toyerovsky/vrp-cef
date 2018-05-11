@@ -1,3 +1,7 @@
+<p align="center">
+![alt](https://i.imgur.com/LmLJlkU.png)
+</p>
+
 # Informacje
 [V Role Play](https://v-rp.pl) jest serwerem RP na platformie rage.mp W celu szybszego oddania serwera do użytku społeczności postanawiamy poprosić Was o pomoc w tworzeniu szablonów przeglądarek, które pełnią rolę okienek na serwerze. Każda pomoc się liczy!
 
