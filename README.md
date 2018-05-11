@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://v-rp.pl"><img width="450" height="300" src="https://i.imgur.com/LmLJlkU.png></a>
+  <img width="400" height="275" src="https://i.imgur.com/LmLJlkU.png>
 </p>
 
 # Informacje
