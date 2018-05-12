@@ -4,9 +4,9 @@
 
 # Info
 :us: 
-[V Role Play](https://v-rp.pl) is Role Play server based on rage.mp platform. This repository contains chromium embedded framework browsers which are implemented on the server. If you're interested to contribute "Mi Casa Es Su Casa".
+[V Role Play](https://v-rp.pl) is Role Play server based on rage.mp platform. This repository contains chromium embedded framework browsers which are implemented on the server. If you're interested to contribute "Mi Casa Es Su Casa". :wink: **We're only interested in static HTML/CSS templates. No Java Script.**
 
-[V Role Play](https://v-rp.pl) jest serwerem RP na platformie rage.mp W celu szybszego oddania serwera do użytku społeczności postanawiamy poprosić Was o pomoc w tworzeniu szablonów przeglądarek, które pełnią rolę okienek na serwerze. Każda pomoc się liczy!
+[V Role Play](https://v-rp.pl) jest serwerem RP na platformie rage.mp W celu szybszego oddania serwera do użytku społeczności postanawiamy poprosić Was o pomoc w tworzeniu szablonów przeglądarek, które pełnią rolę okienek na serwerze. Jeśli masz poczucie estetyki i rozumiesz kod zamieszczony w repozytorium to miejsce dla Ciebie :wink: **Interesują nas tylko i wyłącznie statyczne szablony HTML/CSS. Bez Java Script.**
 
 # Kontakt
 W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktować się z administracją serwera poprzez discord: https://discord.gg/b385UEP
@@ -43,16 +43,10 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 - [ ] Odbierz wypłatę
 - **6. Menu przystanku autobusowego**
 - [ ] Tabelka przechowująca dane przystanków (Nazwa, odległość, czas przejazdu)
-- [ ] Tabela generowana funkcją któa przyjmuje w parametrze JSON
-- [ ] Sortowanie
 - **7. Menu drive-thru**
 - [ ] Tabelka przechowująca dane posiłków (Nazwa, cena, waga [na podstawie wagi będzie przeliczane HP które dodaje])
-- [ ] Tabela generowana funkcją któa przyjmuje w parametrze JSON
-- [ ] Sortowanie
 - **9. Menu salonu pojazdów**
 - [ ] Tabelka przechowująca dane pojazdów 
 - [ ] Pasek wszukiwania
 - [ ] Podział pojazdów na kategorię
-- [ ] Sortowanie
-- [ ] Po kliknięciu na pojazd przejście do jego detali
 
