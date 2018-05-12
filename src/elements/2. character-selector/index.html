@@ -1,0 +1,83 @@
+<!DOCTYPE>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wybierz postać</title>
+
+    <link rel="stylesheet" href="main.min.css">
+</head>
+<body>
+   <!-- #region main-->
+    <main>
+        <section class="selector-box">
+            <div class="user-card">
+                
+                <div class="characters-info">
+                    <p>
+                        <span class="static-text">
+                            Imie i Nazwisko:
+                        </span>
+                        Janusz Polak
+                    </p>
+                
+                    <p>
+                        <span class="static-text">
+                            Stan konta:
+                        </span>
+                        $500
+                    </p>
+                
+                    <p>
+                        <span class="static-text">
+                            Zawód:
+                        </span>
+                        Bezrobotny
+                    </p>
+                </div>
+
+                <!-- IMPORTANT -->
+                <!-- WHEN USER CLICKS ON AVATAR ADD THE CLASS TO THIS ELEMENT "clicked" -->
+                <div class="characters">
+                    <div class="character">
+                        <img src='../../images/character01.png'/>
+                    </div>
+
+                    <div class="character clicked">
+                        <img src='../../images/character02.jpg'/>
+                    </div>
+
+                    <div class="character">
+                        <img src='../../images/character03.jpg'/>
+                    </div>
+                </div>
+
+                
+            </div>
+
+            <div class="action-box">
+                <button class="btn-change previous">
+                    Wcześniejsza postać
+                </button>
+            
+                <button class="btn-change start">
+                    Graj
+                </button>
+            
+                <button class="btn-change next">
+                    Następna postać
+                </button>
+            </div>
+        </section>
+    </main>
+    <!-- #endregion main-->
+
+    <!-- #region vlogo -->
+    <span class="vlogo">
+        <p>
+            <span style="color:green;">V</span> Role Play
+        </p>
+    </span>
+    <!-- #endregion vlogo-->
+</body>
+</html>

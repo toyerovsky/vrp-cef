@@ -1,0 +1,43 @@
+*{ 
+    padding: 0; 
+    margin: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+
+div,main,header,aside,nav,footer{
+    box-sizing: border-box;
+}
+
+main{
+    width: 100%;
+    height: 100vh;
+}
+
+.vlogo{
+    display: block;
+    position: absolute;
+    right: 1em;
+    top:1em;
+	text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.86);
+    -webkit-user-select: none;
+    user-select: none;
+    cursor: default;
+
+    p:first-child{
+        color: #fff;
+        font-size: 3em;
+        line-height: 40px;
+    }
+
+    p:nth-child(2){
+        float: right;
+        padding-right: 1.5em;
+        color: #d8d8d8;
+        font-size: 1.5em;
+        line-height: 25px;
+    }
+}
