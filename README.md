@@ -20,7 +20,7 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 - [X] Pole hasło
 - **2. Wybór postaci**
 - [x] Wyświetlanie postaci
-- [ ] Przyciski do przewijania postaci (te które są obecnie są tymczasowe na potrzeby testowania serwera przez programistów)
+- [x] Przyciski do przewijania postaci (te które są obecnie są tymczasowe na potrzeby testowania serwera przez programistów)
 - **3. Kreator postaci**
 - [ ] Strona z ustalaniem szczegółów twarzy dla postaci (Wybór tych samych detali co w gtao)
 - [ ] Strona z wyborem ubrań dla postaci (Wybór tych samych detali co w gtao)
