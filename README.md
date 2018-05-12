@@ -58,3 +58,25 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 - **11. Menu sklepu 24/7**
 - [ ] Tabelka przechowująca dane produktów (Nazwa, cena, ilość
 - [ ] Podsumowanie kupionych przedmiotów guzik zapłać karta/gotówka
+- **12. Menu pojazdów gracza**
+- [ ] Pierwsza strona - Lista
+-   [ ] Prosta lista z miniaturkami pojazdów i nazwą
+- [ ] Druga strona - Detale
+-   [ ]   Obrazek pojazdu w większym rozmiarze, nazwa, paliwo, spalanie, przebieg
+-   [ ]   Guzik spawn/unspawn
+-   [ ]   Przycisk powrót
+- **13. Menu przedmiotów gracza**
+- [ ] Pierwsza strona - Lista
+-   [ ] Prosta lista z miniaturkami przedmiotów i nazwą
+- [ ] Druga strona - Detale 
+-  [ ] Obrazek przedmiotu w większym rozmiarze, nazwa
+-  [ ] Guziki: "Użyj", "Co to jest?", "Do czego to służy?"
+-  [ ] Przycisk powrót
+- **14. Menu stacji benzynowej**
+- [ ] Slider z ilością paliwa
+- [ ] Cena
+- [ ] Guzik karta/gotówka
+- **15. Menu budynków**
+- [ ] Pierwsza strona Informacje
+-  [ ] Nazwa, opłata za przejście, opis
+- [ ] Lista lokatorów, liczbowe pole tekstowe do zaproszenia gracza o podanym Id
