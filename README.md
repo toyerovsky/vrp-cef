@@ -9,7 +9,7 @@
 [V Role Play](https://v-rp.pl) jest serwerem RP na platformie rage.mp W celu szybszego oddania serwera do użytku społeczności postanawiamy poprosić Was o pomoc w tworzeniu szablonów przeglądarek, które pełnią rolę okienek na serwerze. Jeśli masz poczucie estetyki i rozumiesz kod zamieszczony w repozytorium to miejsce dla Ciebie :wink: **Interesują nas tylko i wyłącznie statyczne szablony HTML/CSS. Bez Java Script.**
 
 # Kontakt
-W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktować się z administracją serwera poprzez discord: https://discord.gg/b385UEP
+W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktować się z administracją serwera poprzez discord: https://discord.gg/nEe5JtM
 
 # TODO
 - **1. Okno logowania**
