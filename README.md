@@ -21,14 +21,7 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 - **2. Wybór postaci**
 - [x] Wyświetlanie postaci
 - [x] Przyciski do przewijania postaci (te które są obecnie są tymczasowe na potrzeby testowania serwera przez programistów)
-- **3. Kreator postaci**
-- [ ] Strona z ustalaniem szczegółów twarzy dla postaci (Wybór tych samych detali co w gtao)
-- [ ] Strona z wyborem ubrań dla postaci (Wybór tych samych detali co w gtao)
-- [ ] Strona z wyborem pojazdu dla postaci (Całość zrobić tak, aby możliwe było pokazanie również samego pojazdu jako obiektu z gry
--    [ ] Wybór modelu pojazdu
--    [ ] Slider do ustalenia rotacji pojazdu w danej chwili
--    [ ] Color picker
-- **4. Menu grupy**
+- **3. Menu grupy**
 - [ ] Pierwsza strona - Detale
 -   [ ] Imie Nazwisko pracownika
 -   [ ] Stanowisko zajmowane przez osobę która wyświetla
@@ -40,43 +33,43 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 -   [ ] Mozliwosc przejscia do detali danego pracownika
 - [ ] Zarządzanie
 -   [ ] Wpłata/Wypłata środków
-- **5. Menu pracodawcy (prace dorywcze)**
+- **4. Menu pracodawcy (prace dorywcze)**
 - [ ] Pole wyboru pracy, np. Ogrodnik, Operator śmieciarki wraz z guzikiem potwierdzenia
 - [ ] Wypracowane środki
 - [ ] Odbierz wypłatę
-- **6. Menu przystanku autobusowego**
+- **5. Menu przystanku autobusowego**
 - [ ] Tabelka przechowująca dane przystanków (Nazwa, odległość, czas przejazdu)
-- **7. Menu drive-thru**
+- **6. Menu drive-thru**
 - [ ] Tabelka przechowująca dane posiłków (Nazwa, cena, waga na podstawie wagi będzie przeliczane HP które dodaje, ilość)
 - [ ] Podsumowanie kupionego jedzenia, guzik zapłać karta/gotówka
-- **9. Menu salonu pojazdów**
+- **7. Menu salonu pojazdów**
 - [ ] Tabelka przechowująca dane pojazdów 
 - [ ] Pasek wszukiwania
 - [ ] Podział pojazdów na kategorię
-- **10. Menu bankomatu**
+- **8. Menu bankomatu**
 - [ ] Wpłać/Wypłać pieniądze
-- **11. Menu sklepu 24/7**
+- **9. Menu sklepu 24/7**
 - [ ] Tabelka przechowująca dane produktów (Nazwa, cena, ilość
 - [ ] Podsumowanie kupionych przedmiotów guzik zapłać karta/gotówka
-- **12. Menu pojazdów gracza**
+- **10. Menu pojazdów gracza**
 - [ ] Pierwsza strona - Lista
 -   [ ] Prosta lista z miniaturkami pojazdów i nazwą
 - [ ] Druga strona - Detale
 -   [ ]   Obrazek pojazdu w większym rozmiarze, nazwa, paliwo, spalanie, przebieg
 -   [ ]   Guzik spawn/unspawn
 -   [ ]   Przycisk powrót
-- **13. Menu przedmiotów gracza**
+- **11. Menu przedmiotów gracza**
 - [ ] Pierwsza strona - Lista
 -   [ ] Prosta lista z miniaturkami przedmiotów i nazwą
 - [ ] Druga strona - Detale 
 -  [ ] Obrazek przedmiotu w większym rozmiarze, nazwa
 -  [ ] Guziki: "Użyj", "Co to jest?", "Do czego to służy?"
 -  [ ] Przycisk powrót
-- **14. Menu stacji benzynowej**
+- **12. Menu stacji benzynowej**
 - [ ] Slider z ilością paliwa
 - [ ] Cena
 - [ ] Guzik karta/gotówka
-- **15. Menu budynków**
+- **13. Menu budynków**
 - [ ] Pierwsza strona Informacje
 -  [ ] Nazwa, opłata za przejście, opis
 - [ ] Lista lokatorów, liczbowe pole tekstowe do zaproszenia gracza o podanym Id
