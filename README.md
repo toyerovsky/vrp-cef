@@ -22,17 +22,25 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 - [x] Wyświetlanie postaci
 - [x] Przyciski do przewijania postaci (te które są obecnie są tymczasowe na potrzeby testowania serwera przez programistów)
 - **3. Menu grupy**
-- [ ] Pierwsza strona - Detale
+- [ ] Pierwsza strona - Podsumowanie
+-   [ ] Nazwa grupy
+-   [ ] Liczba pracowników on-line (nie na duty)
+-   [ ] Typ grupy
+-   [ ] Saldo
+-   [ ] Guzik "służba"
+- [ ] Druga strona - Detale pracownika
 -   [ ] Imie Nazwisko pracownika
 -   [ ] Stanowisko zajmowane przez osobę która wyświetla
 -   [ ] Wypłata
 -   [ ] Minuty na służbie
--   [ ] Guzik "Służba"
 -   [ ] Guzik Wyproś
-- [ ] Druga strona - Pracownicy online
+- [ ] Trzecia strona - Pracownicy online
 -   [ ] Mozliwosc przejscia do detali danego pracownika
+-   [ ] Ilość pracowników na służbie
 - [ ] Zarządzanie
 -   [ ] Wpłata/Wypłata środków
+-   [ ] TextBox na kwotę dolarów
+-   [ ] Guzik akceptuj
 - **4. Menu pracodawcy (prace dorywcze)**
 - [ ] Pole wyboru pracy, np. Ogrodnik, Operator śmieciarki wraz z guzikiem potwierdzenia
 - [ ] Wypracowane środki
