@@ -42,9 +42,9 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 -   [X] TextBox na kwotę dolarów
 -   [X] Guzik akceptuj
 - **4. Menu pracodawcy (prace dorywcze)**
-- [ ] Pole wyboru pracy, np. Ogrodnik, Operator śmieciarki wraz z guzikiem potwierdzenia
-- [ ] Wypracowane środki
-- [ ] Odbierz wypłatę
+- [X] Pole wyboru pracy, np. Ogrodnik, Operator śmieciarki wraz z guzikiem potwierdzenia
+- [X] Wypracowane środki
+- [X] Odbierz wypłatę
 - **5. Menu przystanku autobusowego**
 - [ ] Tabelka przechowująca dane przystanków (Nazwa, odległość, czas przejazdu)
 - **6. Menu drive-thru**
