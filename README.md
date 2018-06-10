@@ -48,8 +48,8 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 - **5. Menu przystanku autobusowego**
 - [ ] Tabelka przechowująca dane przystanków (Nazwa, odległość, czas przejazdu)
 - **6. Menu drive-thru**
-- [ ] Tabelka przechowująca dane posiłków (Nazwa, cena, waga na podstawie wagi będzie przeliczane HP które dodaje, ilość)
-- [ ] Podsumowanie kupionego jedzenia, guzik zapłać karta/gotówka
+- [X] Tabelka przechowująca dane posiłków (Nazwa, cena, waga na podstawie wagi będzie przeliczane HP które dodaje, ilość)
+- [X] Podsumowanie kupionego jedzenia, guzik zapłać karta/gotówka
 - **7. Menu salonu pojazdów**
 - [ ] Tabelka przechowująca dane pojazdów 
 - [ ] Pasek wszukiwania
