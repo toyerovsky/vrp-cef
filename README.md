@@ -57,8 +57,8 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 - **8. Menu bankomatu**
 - [ ] Wpłać/Wypłać pieniądze
 - **9. Menu sklepu 24/7**
-- [ ] Tabelka przechowująca dane produktów (Nazwa, cena, ilość
-- [ ] Podsumowanie kupionych przedmiotów guzik zapłać karta/gotówka
+- [X] Tabelka przechowująca dane produktów (Nazwa, cena, ilość
+- [X] Podsumowanie kupionych przedmiotów guzik zapłać karta/gotówka
 - **10. Menu pojazdów gracza**
 - [ ] Pierwsza strona - Lista
 -   [ ] Prosta lista z miniaturkami pojazdów i nazwą
