@@ -23,20 +23,20 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 - [x] Przyciski do przewijania postaci (te które są obecnie są tymczasowe na potrzeby testowania serwera przez programistów)
 - **3. Menu grupy (https://i.imgur.com/7PEjCO8.gifv)**
 - [X] Pierwsza strona - Podsumowanie
--   [X] Nazwa grupy
--   [X] Liczba pracowników on-line (nie na duty)
--   [X] Typ grupy
--   [X] Saldo
--   [X] Guzik "służba"
+  - [X] Nazwa grupy
+  - [X] Liczba pracowników on-line (nie na duty)
+  - [X] Typ grupy
+  - [X] Saldo
+  - [X] Guzik "służba"
 - [X] Druga strona - Detale pracownika
--   [X] Imie Nazwisko pracownika
--   [X] Stanowisko zajmowane przez osobę która wyświetla
--   [X] Wypłata
--   [X] Minuty na służbie
--   [X] Guzik Wyproś
+  - [X] Imie Nazwisko pracownika
+  - [X] Stanowisko zajmowane przez osobę która wyświetla
+  - [X] Wypłata
+  - [X] Minuty na służbie
+  - [X] Guzik Wyproś
 - [X] Trzecia strona - Pracownicy online
--   [X] Mozliwosc przejscia do detali danego pracownika
--   [X] Ilość pracowników na służbie
+  - [X] Mozliwosc przejscia do detali danego pracownika
+  - [X] Ilość pracowników na służbie
 - [X] Zarządzanie
   - [X] Wpłata/Wypłata środków
   - [X] TextBox na kwotę dolarów
@@ -61,23 +61,23 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 - [X] Podsumowanie kupionych przedmiotów guzik zapłać karta/gotówka
 - **10. Menu pojazdów gracza**
 - [ ] Pierwsza strona - Lista
--   [ ] Prosta lista z miniaturkami pojazdów i nazwą
+  - [ ] Prosta lista z miniaturkami pojazdów i nazwą
 - [ ] Druga strona - Detale
--   [ ]   Obrazek pojazdu w większym rozmiarze, nazwa, paliwo, spalanie, przebieg
--   [ ]   Guzik spawn/unspawn
--   [ ]   Przycisk powrót
+  - [ ]   Obrazek pojazdu w większym rozmiarze, nazwa, paliwo, spalanie, przebieg
+  - [ ]   Guzik spawn/unspawn
+  - [ ]   Przycisk powrót
 - **11. Menu przedmiotów gracza**
 - [ ] Pierwsza strona - Lista
--   [ ] Prosta lista z miniaturkami przedmiotów i nazwą
+  - [ ] Prosta lista z miniaturkami przedmiotów i nazwą
 - [ ] Druga strona - Detale 
--  [ ] Obrazek przedmiotu w większym rozmiarze, nazwa
--  [ ] Guziki: "Użyj", "Co to jest?", "Do czego to służy?"
--  [ ] Przycisk powrót
+  - [ ] Obrazek przedmiotu w większym rozmiarze, nazwa
+  - [ ] Guziki: "Użyj", "Co to jest?", "Do czego to służy?"
+  - [ ] Przycisk powrót
 - **12. Menu stacji benzynowej**
 - [ ] Slider z ilością paliwa
 - [ ] Cena
 - [ ] Guzik karta/gotówka
 - **13. Menu budynków**
 - [ ] Pierwsza strona Informacje
--  [ ] Nazwa, opłata za przejście, opis
+  - [ ] Nazwa, opłata za przejście, opis
 - [ ] Lista lokatorów, liczbowe pole tekstowe do zaproszenia gracza o podanym Id
