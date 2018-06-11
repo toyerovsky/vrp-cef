@@ -55,7 +55,7 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 - [ ] Pasek wszukiwania
 - [ ] Podział pojazdów na kategorię
 - **8. Menu bankomatu**
-- [ ] Wpłać/Wypłać pieniądze
+- [X] Wpłać/Wypłać pieniądze
 - **9. Menu sklepu 24/7**
 - [X] Tabelka przechowująca dane produktów (Nazwa, cena, ilość
 - [X] Podsumowanie kupionych przedmiotów guzik zapłać karta/gotówka
