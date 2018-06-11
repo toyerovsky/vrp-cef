@@ -38,9 +38,9 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 -   [X] Mozliwosc przejscia do detali danego pracownika
 -   [X] Ilość pracowników na służbie
 - [X] Zarządzanie
--   [X] Wpłata/Wypłata środków
--   [X] TextBox na kwotę dolarów
--   [X] Guzik akceptuj
+  - [X] Wpłata/Wypłata środków
+  - [X] TextBox na kwotę dolarów
+  - [X] Guzik akceptuj
 - **4. Menu pracodawcy**
 - [X] Pole wyboru pracy, np. Ogrodnik, Operator śmieciarki wraz z guzikiem potwierdzenia
 - [X] Wypracowane środki
