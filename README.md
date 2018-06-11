@@ -60,12 +60,12 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 - [X] Tabelka przechowująca dane produktów (Nazwa, cena, ilość
 - [X] Podsumowanie kupionych przedmiotów guzik zapłać karta/gotówka
 - **10. Menu pojazdów gracza**
-- [ ] Pierwsza strona - Lista
-  - [ ] Prosta lista z miniaturkami pojazdów i nazwą
-- [ ] Druga strona - Detale
-  - [ ]   Obrazek pojazdu w większym rozmiarze, nazwa, paliwo, spalanie, przebieg
-  - [ ]   Guzik spawn/unspawn
-  - [ ]   Przycisk powrót
+- [X] Pierwsza strona - Lista
+  - [X] Prosta lista z miniaturkami pojazdów i nazwą
+- [X] Druga strona - Detale
+  - [X]   Obrazek pojazdu w większym rozmiarze, nazwa, paliwo, spalanie, przebieg
+  - [X]   Guzik spawn/unspawn
+  - [X]   Przycisk powrót
 - **11. Menu przedmiotów gracza**
 - [ ] Pierwsza strona - Lista
   - [ ] Prosta lista z miniaturkami przedmiotów i nazwą
