@@ -73,10 +73,10 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
   - [ ] Obrazek przedmiotu w większym rozmiarze, nazwa
   - [ ] Guziki: "Użyj", "Co to jest?", "Do czego to służy?"
   - [ ] Przycisk powrót
-- **12. Menu stacji benzynowej**
-- [ ] Slider z ilością paliwa
-- [ ] Cena
-- [ ] Guzik karta/gotówka
+- **12. Menu stacji benzynowej (https://i.imgur.com/mzPa1R3.png)**
+- [X] Slider z ilością paliwa
+- [X] Cena
+- [X] Guzik karta/gotówka
 - **13. Menu budynków**
 - [ ] Pierwsza strona Informacje
   - [ ] Nazwa, opłata za przejście, opis
