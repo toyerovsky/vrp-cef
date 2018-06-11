@@ -15,13 +15,13 @@ Kilka dni od wykonania wszystkich tasków z listy zostanie udostępnione forum, 
 W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktować się z administracją serwera poprzez discord: https://discord.gg/nEe5JtM
 
 # TODO
-- **1. Okno logowania**
+- **1. Okno logowania (https://i.imgur.com/yaurGN8.jpg)**
 - [X] Pole email
 - [X] Pole hasło
-- **2. Wybór postaci**
+- **2. Wybór postaci (https://i.imgur.com/oGAdhQA.jpg)**
 - [x] Wyświetlanie postaci
 - [x] Przyciski do przewijania postaci (te które są obecnie są tymczasowe na potrzeby testowania serwera przez programistów)
-- **3. Menu grupy**
+- **3. Menu grupy (https://i.imgur.com/7PEjCO8.gifv)**
 - [X] Pierwsza strona - Podsumowanie
 -   [X] Nazwa grupy
 -   [X] Liczba pracowników on-line (nie na duty)
@@ -41,13 +41,13 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
 -   [X] Wpłata/Wypłata środków
 -   [X] TextBox na kwotę dolarów
 -   [X] Guzik akceptuj
-- **4. Menu pracodawcy (prace dorywcze)**
+- **4. Menu pracodawcy**
 - [X] Pole wyboru pracy, np. Ogrodnik, Operator śmieciarki wraz z guzikiem potwierdzenia
 - [X] Wypracowane środki
 - [X] Odbierz wypłatę
 - **5. Menu przystanku autobusowego**
 - [ ] Tabelka przechowująca dane przystanków (Nazwa, odległość, czas przejazdu)
-- **6. Menu drive-thru**
+- **6. Menu drive-thru (https://i.imgur.com/FCWA27C.png)**
 - [X] Tabelka przechowująca dane posiłków (Nazwa, cena, waga na podstawie wagi będzie przeliczane HP które dodaje, ilość)
 - [X] Podsumowanie kupionego jedzenia, guzik zapłać karta/gotówka
 - **7. Menu salonu pojazdów**
