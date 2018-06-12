@@ -67,12 +67,12 @@ W sprawie szczegółów dotyczących zostania współtwórcą proszę kontaktowa
   - [X]   Guzik spawn/unspawn
   - [X]   Przycisk powrót
 - **11. Menu przedmiotów gracza**
-- [ ] Pierwsza strona - Lista
-  - [ ] Prosta lista z miniaturkami przedmiotów i nazwą
-- [ ] Druga strona - Detale 
-  - [ ] Obrazek przedmiotu w większym rozmiarze, nazwa
-  - [ ] Guziki: "Użyj", "Co to jest?", "Do czego to służy?"
-  - [ ] Przycisk powrót
+- [x] Pierwsza strona - Lista
+  - [x] Prosta lista z miniaturkami przedmiotów i nazwą
+- [x] Druga strona - Detale 
+  - [x] Obrazek przedmiotu w większym rozmiarze, nazwa
+  - [x] Guziki: "Użyj", "Co to jest?", "Do czego to służy?"
+  - [x] Przycisk powrót
 - **12. Menu stacji benzynowej (https://i.imgur.com/mzPa1R3.png)**
 - [X] Slider z ilością paliwa
 - [X] Cena
